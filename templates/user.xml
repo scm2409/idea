@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="fx" value="FIXME(mscho): " shortcut="SPACE" description="FIXME" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="to" value="TODO(mscho): " shortcut="SPACE" description="TODO" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
