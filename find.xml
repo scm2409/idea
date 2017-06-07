@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'rex-rest'" />
-    <option name="defaultScopeName" value="Project 'rex-rest'" />
-    <option name="SEARCH_SCOPE" value="Project 'rex-rest'" />
+    <option name="customScope" value="Project 'rex-gateway'" />
+    <option name="defaultScopeName" value="Project 'rex-gateway'" />
+    <option name="SEARCH_SCOPE" value="Project 'rex-gateway'" />
   </component>
 </application>
