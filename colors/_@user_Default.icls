@@ -4,7 +4,7 @@
     <property name="created">2017-06-06T13:23:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-06-07T10:46:30</property>
+    <property name="modified">2017-06-22T13:11:37</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -13,6 +13,11 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="454545" />
   </colors>
   <attributes>
+    <option name="Bad character">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffa4a4" />
@@ -9928,6 +9933,13 @@
       <value>
         <option name="BACKGROUND" value="dff6e5" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
   </attributes>
