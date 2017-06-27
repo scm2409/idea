@@ -3,6 +3,10 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
