@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Local ADB" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://172.28.128.3:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/development/rex/rex-devops/adb_k8s/.vagrant/machines/default/virtualbox/docker" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
