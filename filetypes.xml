@@ -12,6 +12,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="YAML_EX" />
       <mapping ext="j2" type="YAML_EX" />
     </extensionMap>
   </component>
