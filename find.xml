@@ -23,6 +23,13 @@
       <mask>container.y</mask>
       <mask>container.ym</mask>
       <mask>container.yml</mask>
+      <mask>m</mask>
+      <mask>mo</mask>
+      <mask>mon</mask>
+      <mask>moni</mask>
+      <mask>monit</mask>
+      <mask>*monit</mask>
+      <mask>*monit*</mask>
     </recentFileMasks>
   </component>
 </application>
