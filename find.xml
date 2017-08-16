@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="ndf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -30,6 +31,9 @@
       <mask>monit</mask>
       <mask>*monit</mask>
       <mask>*monit*</mask>
+      <mask>n</mask>
+      <mask>nd</mask>
+      <mask>ndf</mask>
     </recentFileMasks>
   </component>
 </application>
