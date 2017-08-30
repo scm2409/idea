@@ -5,20 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="vault.yml" />
     <recentFileMasks>
-      <mask>conta</mask>
-      <mask>contain</mask>
-      <mask>containe</mask>
-      <mask>container</mask>
-      <mask>container.</mask>
-      <mask>container.y</mask>
-      <mask>container.ym</mask>
-      <mask>container.yml</mask>
-      <mask>m</mask>
-      <mask>mo</mask>
-      <mask>mon</mask>
-      <mask>moni</mask>
-      <mask>monit</mask>
       <mask>*monit</mask>
       <mask>*monit*</mask>
       <mask>n</mask>
@@ -36,6 +24,19 @@
       <mask>*.ret</mask>
       <mask>*.retr</mask>
       <mask>*.retry</mask>
+      <mask>a</mask>
+      <mask>ac</mask>
+      <mask>acco</mask>
+      <mask>accou</mask>
+      <mask>account</mask>
+      <mask>accounts</mask>
+      <mask>accounts.</mask>
+      <mask>accounts.y</mask>
+      <mask>accounts.yml</mask>
+      <mask>v.yml</mask>
+      <mask>vau.yml</mask>
+      <mask>vaul.yml</mask>
+      <mask>vault.yml</mask>
     </recentFileMasks>
   </component>
 </application>
