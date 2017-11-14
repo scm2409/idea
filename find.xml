@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[rex-auth_main~1] - .../src/main/resources/templates/register.html'" />
-    <option name="defaultScopeName" value="File '[rex-auth_main~1] - .../src/main/resources/templates/register.html'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="preserveCase" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[rex-auth_main~1] - .../src/main/resources/templates/register.html'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>*.r</mask>
