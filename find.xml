@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '[rex-campaign] - ...'" />
+    <option name="defaultScopeName" value="Directory '[rex-campaign] - ...'" />
     <option name="preserveCase" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '[rex-campaign] - ...'" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>*.r</mask>
