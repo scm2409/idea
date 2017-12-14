@@ -6,12 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.re</mask>
-      <mask>*.ret</mask>
-      <mask>*.retr</mask>
-      <mask>*.retry</mask>
       <mask>a</mask>
       <mask>ac</mask>
       <mask>acco</mask>
@@ -36,6 +30,12 @@
       <mask>*</mask>
       <mask>*conductor-requirements</mask>
       <mask>*conductor-requirements*</mask>
+      <mask>v</mask>
+      <mask>va</mask>
+      <mask>vau</mask>
+      <mask>vaul</mask>
+      <mask>vault</mask>
+      <mask>vault*</mask>
     </recentFileMasks>
   </component>
 </application>
