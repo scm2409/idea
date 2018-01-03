@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../roles/internal/robotic-eyes.rex-reverse-proxy/files/maintenance.html [rex-devops]'" />
-    <option name="defaultScopeName" value="File '.../roles/internal/robotic-eyes.rex-reverse-proxy/files/maintenance.html [rex-devops]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../roles/internal/robotic-eyes.rex-reverse-proxy/files/maintenance.html [rex-devops]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>a</mask>
       <mask>ac</mask>
