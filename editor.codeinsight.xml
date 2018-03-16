@@ -3,10 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="CodeInsightSettings">
-    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
-    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
-  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
@@ -14,9 +10,9 @@
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
   </component>
-  <component name="MarkdownFoldingSettings">
-    <option name="COLLAPSE_IMAGES" value="false" />
-    <option name="COLLAPSE_SIM_TOC" value="false" />
+  <component name="RubyI18nFoldingSettings">
+    <option name="collapseI18nMessages" value="false" />
+    <option name="COLLAPSE_I18N_MESSAGES" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
