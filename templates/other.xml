@@ -1,10 +1,10 @@
 <templateSet group="other">
-  <template name="fixme" value="FIXME(mscho): " shortcut="SPACE" toReformat="false" toShortenFQNames="true">
+  <template name="fixme" value="FIXME(mscho): " shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="todo" value="TODO(mscho): " shortcut="SPACE" toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="TODO(mscho): " shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
