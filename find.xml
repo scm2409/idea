@@ -2,44 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>ac</mask>
-      <mask>acco</mask>
-      <mask>accou</mask>
-      <mask>account</mask>
-      <mask>accounts</mask>
-      <mask>accounts.</mask>
-      <mask>accounts.y</mask>
-      <mask>accounts.yml</mask>
-      <mask>v.yml</mask>
-      <mask>vau.yml</mask>
-      <mask>vaul.yml</mask>
-      <mask>vault.yml</mask>
-      <mask>y</mask>
-      <mask>ym</mask>
-      <mask>yml</mask>
-      <mask>yml.</mask>
-      <mask>yml.j</mask>
-      <mask>yml.j2</mask>
-      <mask>*yml.j2</mask>
-      <mask>*.yml.j2</mask>
-      <mask>*</mask>
-      <mask>*conductor-requirements</mask>
-      <mask>*conductor-requirements*</mask>
-      <mask>v</mask>
-      <mask>va</mask>
-      <mask>vau</mask>
-      <mask>vaul</mask>
-      <mask>vault</mask>
-      <mask>vault*</mask>
-      <mask>*.yml</mask>
-    </recentFileMasks>
   </component>
 </application>
