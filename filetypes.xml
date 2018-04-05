@@ -12,11 +12,12 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
+      <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="YAML_EX" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
