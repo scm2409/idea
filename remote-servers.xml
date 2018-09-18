@@ -6,5 +6,11 @@
         <option name="certificatesPath" value="$USER_HOME$/development/rex/rex-devops/adb_k8s/.vagrant/machines/default/virtualbox/docker" />
       </configuration>
     </remote-server>
+    <remote-server name="Local" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
