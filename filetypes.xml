@@ -13,8 +13,9 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="apple-app-site-association" type="JSON" />
-      <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
