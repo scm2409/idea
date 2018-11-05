@@ -22,6 +22,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.j2" type="YAML" />
       <mapping pattern="inventory" type="YAML_EX" />
       <mapping ext="j2" type="Jinja2" />
     </extensionMap>
