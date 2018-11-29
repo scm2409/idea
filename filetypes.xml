@@ -16,6 +16,7 @@
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT" type="PLAIN_TEXT" />
+      <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
