@@ -2,6 +2,6 @@
   <component name="GroovyApplicationSettings">
     <option name="FORCE_RETURN" value="true" />
     <option name="EXTRACT_METHOD_SPECIFY_TYPE" value="true" />
-    <option name="EXTRACT_METHOD_VISIBILITY" value="protected" />
+    <option name="EXTRACT_METHOD_VISIBILITY" value="public" />
   </component>
 </application>
