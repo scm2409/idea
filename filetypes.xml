@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
@@ -13,14 +14,13 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="apple-app-site-association" type="JSON" />
-      <mapping ext="j2" type="Jinja2" />
-      <mapping pattern="kube_user" type="PLAIN_TEXT" />
-      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="ARTIFACT" type="PLAIN_TEXT" />
-      <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
+      <mapping pattern="kube_user" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
+      <mapping pattern="ARTIFACT" type="PLAIN_TEXT" />
+      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
@@ -28,6 +28,7 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.j2" type="YAML" />
       <mapping pattern="inventory" type="YAML_EX" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
