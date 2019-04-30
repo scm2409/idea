@@ -4,6 +4,7 @@
       <set>
         <option value="/usr/lib/go" />
         <option value="/usr/lib/go-1.10" />
+        <option value="/usr/lib/go-1.11" />
       </set>
     </sdk-path>
   </component>
