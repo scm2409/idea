@@ -63,7 +63,6 @@
         <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
         <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
-        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -84,7 +83,6 @@
         <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
         <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
-        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
