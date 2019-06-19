@@ -52,6 +52,7 @@
     </formatting-settings>
   </DBN-SQL>
   <codeStyleSettings language="Groovy">
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
