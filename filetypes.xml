@@ -1,36 +1,47 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="apple-app-site-association" type="JSON" />
-      <mapping ext="j2" type="Jinja2" />
-      <mapping pattern="kube_user" type="PLAIN_TEXT" />
-      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
-      <mapping pattern="SDAI_DICTIONARY_SCHEMA_DICTIONARY_DATA" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT" type="PLAIN_TEXT" />
       <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
+      <mapping pattern="kube_user" type="PLAIN_TEXT" />
+      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern="SDAI_DICTIONARY_SCHEMA_DICTIONARY_DATA" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
-      <mapping ext="creds" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
+      <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.j2" type="YAML" />
       <mapping pattern="inventory" type="YAML_EX" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
