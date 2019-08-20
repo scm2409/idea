@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="Console.TableResult.CloneColumn" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -24,7 +25,11 @@
   <action id="HelloWorldAction">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="MschoDecryptVariable">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
   <action id="MschoEncryptVariable">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="UML.ShowChanges" />
 </keymap>
