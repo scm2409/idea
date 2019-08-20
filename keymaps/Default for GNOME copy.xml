@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorPasteSimple" />
   <action id="HelloProjectAction">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
@@ -30,6 +31,9 @@
   </action>
   <action id="MschoEncryptVariable">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="MschoViewVariable">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
   </action>
   <action id="UML.ShowChanges" />
 </keymap>
