@@ -9,10 +9,11 @@
     </Patterns>
     <parsing>
       <list>
-        <LogParsingPattern name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
-        <LogParsingPattern name="IntelliJ IDEA" pattern="^([^\[]+)(\[[\s\d]+])\s*(\w*)\s*-\s*(\S*)\s*-(.+)$" timePattern="yyyy-MM-dd HH:mm:ss,SSS" linePattern="^\d" timeId="0" severityId="2" categoryId="3" />
-        <LogParsingPattern name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
-        <LogParsingPattern name="Nginx(MSCHO)" pattern="^(\d+\.\d+\.\d+\.\d+)\s+-\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+\[(.*)\]\s+&quot;(\w+)\s+(\S*)\s+(.+)&quot;\s+(\d+)\s+(\d+)\s+&quot;(\S+)&quot;\s+&quot;(.+)&quot;" timePattern="dd/MMM/yyyy:HH:mm:ss Z" linePattern="^\d" timeId="4" categoryId="5" />
+        <LogParsingPattern enabled="false" name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
+        <LogParsingPattern enabled="false" name="IntelliJ IDEA" pattern="^([^\[]+)(\[[\s\d]+])\s*(\w*)\s*-\s*(\S*)\s*-(.+)$" timePattern="yyyy-MM-dd HH:mm:ss,SSS" linePattern="^\d" timeId="0" severityId="2" categoryId="3" />
+        <LogParsingPattern enabled="false" name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
+        <LogParsingPattern enabled="false" name="Nginx(MSCHO)" pattern="^(\d+\.\d+\.\d+\.\d+)\s+-\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+\[(.*)\]\s+&quot;(\w+)\s+(\S*)\s+(.+)&quot;\s+(\d+)\s+(\d+)\s+&quot;(\S+)&quot;\s+&quot;(.+)&quot;" timePattern="dd/MMM/yyyy:HH:mm:ss Z" linePattern="^\d" timeId="4" categoryId="5" />
+        <LogParsingPattern name="test" pattern="^(.*)\[(.*)\](.*)$" timePattern="dd/MMM/yyyy:HH:mm:ss Z" linePattern="^\d" timeId="1" />
       </list>
     </parsing>
     <settingsVersion>4</settingsVersion>
