@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="88318d70-31c4-4919-bd1c-77c466ed3a9a" name="re-mscho">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
