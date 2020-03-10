@@ -16,7 +16,6 @@
       <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
