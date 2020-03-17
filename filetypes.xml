@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
