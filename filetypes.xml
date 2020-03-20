@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Docker_new" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern="apple-app-site-association" type="JSON" />
