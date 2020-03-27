@@ -18,6 +18,7 @@
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
+      <mapping ext="-proxy_params" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
