@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Docker_new" type="Dockerfile" />
+      <mapping ext="gonginx" type="Go template" />
       <mapping ext="goyaml" type="Go template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="*.nginx.tpl" type="Helm TEXT template" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
@@ -29,6 +31,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*.nginx.tpl" approved="true" type="Helm YAML template" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
