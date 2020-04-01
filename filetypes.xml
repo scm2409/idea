@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Docker_new" type="Dockerfile" />
+      <mapping ext="goyaml" type="Go template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern="apple-app-site-association" type="JSON" />
@@ -9,7 +10,6 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="yyyy" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping pattern=".sopscommithook" type="PLAIN_TEXT" />
@@ -18,12 +18,13 @@
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
       <mapping pattern="REPOSITORY" type="PLAIN_TEXT" />
       <mapping pattern="xxxx" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
+      <mapping ext="sdai" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
       <mapping ext="-proxy_params" type="PLAIN_TEXT" />
-      <mapping ext="sdai" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

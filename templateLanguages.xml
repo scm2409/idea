@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.goyaml" lang="yaml" />
+  </component>
+</application>
