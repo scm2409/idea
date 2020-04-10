@@ -17,6 +17,16 @@
     <option name="collapseI18nMessages" value="false" />
     <option name="COLLAPSE_I18N_MESSAGES" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\(mscho\).*" />
+    <pattern icon="important" pattern="\bfixme\(mscho\).*" />
+    <filter name="TODOs">
+      <pattern index="0" />
+    </filter>
+    <filter name="FIXMEs">
+      <pattern index="1" />
+    </filter>
+  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />
