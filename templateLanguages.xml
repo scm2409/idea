@@ -1,6 +1,6 @@
 <application>
   <component name="TemplateDataLanguagePatterns">
-    <pattern value="*.nginx.tpl;*.nginx.tpl;*.gonginx" lang="nginx" />
-    <pattern value="*.goyaml" lang="yaml" />
+    <pattern value="*.hbsyml;*.goyaml" lang="yaml" />
+    <pattern value="*.nginx.tpl;*.nginx.tpl;*.hbsnginx;*.gonginx" lang="nginx" />
   </component>
 </application>
