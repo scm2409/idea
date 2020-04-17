@@ -12,8 +12,8 @@
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
       <mapping ext="j2" type="Jinja2" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="yyyy" type="PLAIN_TEXT" />
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
