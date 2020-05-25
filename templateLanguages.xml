@@ -1,5 +1,6 @@
 <application>
   <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.hbsjson" lang="JSON" />
     <pattern value="*.hbsyml;*.goyaml" lang="yaml" />
     <pattern value="*.nginx.tpl;*.nginx.tpl;*.hbsnginx;*.gonginx" lang="nginx" />
   </component>
