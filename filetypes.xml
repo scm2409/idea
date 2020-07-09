@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Docker_new" type="Dockerfile" />
-      <mapping ext="gonginx" type="Go template" />
-      <mapping ext="goyaml" type="Go template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="hbsjson" type="Handlebars/Mustache" />
       <mapping ext="hbsnginx" type="Handlebars/Mustache" />
