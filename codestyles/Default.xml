@@ -27,6 +27,24 @@
   <JSON>
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="io.ktor" alias="false" withSubpackages="true" />
+      </value>
+    </option>
+    <option name="PACKAGES_IMPORT_LAYOUT">
+      <value>
+        <package name="" alias="false" withSubpackages="true" />
+        <package name="java" alias="false" withSubpackages="true" />
+        <package name="javax" alias="false" withSubpackages="true" />
+        <package name="kotlin" alias="false" withSubpackages="true" />
+        <package name="" alias="true" withSubpackages="true" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -40,7 +58,7 @@
     <option name="PREFER_EXPLICIT_TYPES_FUNCTION_RETURNS" value="true" />
     <option name="PREFER_EXPLICIT_TYPES_FUNCTION_EXPRESSION_RETURNS" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="BLACKLIST_IMPORTS" value="rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**,@pulumi/kubernetes/**,@pulumi/pulumi/**" />
+    <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
