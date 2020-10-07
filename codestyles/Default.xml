@@ -58,7 +58,6 @@
     <option name="PREFER_EXPLICIT_TYPES_FUNCTION_RETURNS" value="true" />
     <option name="PREFER_EXPLICIT_TYPES_FUNCTION_EXPRESSION_RETURNS" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
