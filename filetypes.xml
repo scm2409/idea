@@ -28,6 +28,7 @@
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="-proxy_params" type="PLAIN_TEXT" />
