@@ -1,11 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Docker_new" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="hbsrabbit" type="Handlebars/Mustache" />
+      <mapping ext="hbsyml" type="Handlebars/Mustache" />
+      <mapping ext="hbsjson" type="Handlebars/Mustache" />
+      <mapping ext="tpl" type="Handlebars/Mustache" />
+      <mapping ext="hbsnginx" type="Handlebars/Mustache" />
+      <mapping pattern="*.nginx.tpl" type="Helm TEXT template" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".sopscommithook" type="PLAIN_TEXT" />
@@ -20,31 +27,23 @@
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
-      <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
-      <mapping ext="-proxy_params" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="creds" type="PLAIN_TEXT" />
+      <mapping ext="-proxy_params" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="AnsiblePlaybookResourceProvider" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="*.nginx.tpl" approved="true" type="Helm YAML template" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*.nginx.tpl" approved="true" type="Helm YAML template" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="*.yml.j2" approved="true" type="YAML" />
-      <mapping ext="hbsjson" type="Handlebars/Mustache" />
-      <mapping ext="hbsnginx" type="Handlebars/Mustache" />
-      <mapping ext="hbsrabbit" type="Handlebars/Mustache" />
-      <mapping ext="hbsyml" type="Handlebars/Mustache" />
-      <mapping ext="j2" type="Jinja2" />
-      <mapping pattern="*.nginx.tpl" type="Helm TEXT template" />
-      <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="inventory" type="YAML_EX" />
     </extensionMap>
   </component>
