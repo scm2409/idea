@@ -29,7 +29,6 @@
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
