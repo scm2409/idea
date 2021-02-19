@@ -5,6 +5,7 @@
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="x11login" type="AUTO_DETECTED" />
       <mapping pattern="Docker_new" type="Dockerfile" />
+      <mapping ext="goruby" type="Go Template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="hbsrabbit" type="Handlebars/Mustache" />
       <mapping ext="hbsyml" type="Handlebars/Mustache" />
@@ -34,6 +35,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
+      <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="-proxy_params" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
