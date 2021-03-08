@@ -37,6 +37,7 @@
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="-proxy_params" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="AnsiblePlaybookResourceProvider" type="TypeScript" />
