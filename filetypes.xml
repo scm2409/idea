@@ -31,9 +31,11 @@
       <mapping pattern="kube_user" type="PLAIN_TEXT" />
       <mapping pattern="ARTIFACT_NAME" type="PLAIN_TEXT" />
       <mapping ext="sdai" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="rex" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="creds" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="-proxy_params" type="PLAIN_TEXT" />
